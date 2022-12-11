@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/mxportocarrero/node-app#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "mocha": "^6.2.0",
